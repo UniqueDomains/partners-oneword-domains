@@ -66,17 +66,17 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | only.partners   | available | $13.99    | $92.99        | 110            | 46     | 4      | name.com                                                  |
 | bloom.partners  | resell    | —         | —             | 72             | 99     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| fast.partners   | premium   | $250      | $250          | 82             | 53     | 4      | name.com                                                  |
+| fast.partners   | premium   | $250      | $250          | 82             | 52     | 4      | name.com                                                  |
 | quick.partners  | available | $13.99    | $92.99        | 72             | 42     | 5      | name.com                                                  |
 | wise.partners   | resell    | —         | —             | 98             | 72     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | game.partners   | premium   | $500      | $500          | 120            | 50     | 4      | name.com                                                  |
-| order.partners  | available | $13.99    | $92.99        | 78             | 41     | 5      | name.com                                                  |
+| order.partners  | available | $13.99    | $92.99        | 78             | 40     | 5      | name.com                                                  |
 | get.partners    | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC - 49                                         |
 | car.partners    | premium   | $85.80    | $85.80        | 94             | 46     | 3      | namecheap                                                 |
-| daily.partners  | available | $13.99    | $92.99        | 74             | 40     | 5      | name.com                                                  |
+| gather.partners | available | $13.99    | $92.99        | 96             | 39     | 6      | name.com                                                  |
 | prompt.partners | resell    | —         | —             | 114            | 68     | 6      | Porkbun LLC                                               |
 | hotel.partners  | premium   | $128.70   | $128.70       | 70             | 45     | 5      | namecheap                                                 |
-| gather.partners | available | $13.99    | $92.99        | 96             | 38     | 6      | name.com                                                  |
+| daily.partners  | available | $13.99    | $92.99        | 74             | 39     | 5      | name.com                                                  |
 | match.partners  | resell    | —         | —             | 102            | 65     | 5      | GoDaddy.com, LLC                                          |
 | map.partners    | premium   | $128.70   | $128.70       | 78             | 42     | 3      | namecheap                                                 |
 | drop.partners   | available | $13.99    | $92.99        | 86             | 38     | 4      | name.com                                                  |
