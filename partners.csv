@@ -258,7 +258,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 17c29a90-3881-4a3d-ac03-b473e777d1c2,movingforward.partners,available,13.99,,56,8,14,name.com,,
 17c82cf0-fbc2-4527-8f93-768383ab513b,precursors.partners,available,13.99,,50,2,10,name.com,,
 17d2438b-6d61-4c01-9d87-7cc132090bf9,jetaircraft.partners,available,13.99,,62,1,12,name.com,,
-17ff603e-b5ce-49f6-ba4f-abb07d3a5d73,property.partners,resell,,,76,39,8,Porkbun LLC,29/08/2016 08:20,29/08/2026 08:20
+17ff603e-b5ce-49f6-ba4f-abb07d3a5d73,property.partners,resell,,,76,38,8,Porkbun LLC,29/08/2016 08:20,29/08/2026 08:20
 181fb826-8582-4967-a89e-f8a5cf83d9ba,fasttracks.partners,available,13.99,,56,4,11,name.com,,
 18262a11-eb8c-4415-b750-18eea07b34f3,tryon.partners,available,13.99,,77,13,6,name.com,,
 18398b7a-466d-40e8-96fc-e39a28a3b474,flaxcotton.partners,available,13.99,,56,0,11,name.com,,
