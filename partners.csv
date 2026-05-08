@@ -135,6 +135,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0c6f46bd-7fa9-42d8-9dac-3066904d56fb,stormed.partners,available,13.99,,50,3,7,name.com,,
 0c91b868-5b3b-421c-b914-99ef0680b92b,movein.partners,available,13.99,,70,9,7,name.com,,
 0ca001d4-2685-475b-b2d1-8963a748d02a,goonthen.partners,available,13.99,,48,1,10,name.com,,
+0cea607b-81aa-4b7d-a69e-f0c157f0d129,label.partners,premium,,,70,39,5,,,
 0ced67ce-40a1-4437-a58f-7a529b22b8ec,songbirds.partners,available,13.99,,64,6,9,name.com,,
 0d0831a0-f46b-4b9f-a3fe-77e317d46961,riders.partners,available,13.99,,60,14,6,name.com,,
 0d0d15ce-f0cb-425d-88df-4889fd7c9488,walktheline.partners,available,13.99,,68,3,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54e4d861-17ab-46c0-8e80-bf5a75997dec,thrilly.partners,available,13.99,,71,2,7,name.com,,
 54f3dab0-fec4-46c0-aea5-bfb10c8074f3,termed.partners,available,13.99,,48,4,6,name.com,,
 54fdb051-b0f9-46ff-93f2-cc35a5934c14,blewup.partners,available,13.99,,44,1,7,name.com,,
-552cee40-fdf2-442e-830f-fee2ae741bce,allsorts.partners,available,13.99,,52,5,9,name.com,,
