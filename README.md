@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .partners one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,645 domains · **Median ask:** $21.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/tld/partners`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | online.partners   | resell    | —         | —             | 70             | 62     | 7      | Spaceship, Inc. |
 | homes.partners    | premium   | $250      | —             | 86             | 34     | 5      | name.com        |
 | etc.partners      | available | $13.99    | —             | 58             | 34     | 3      | name.com        |
-| quest.partners    | resell    | —         | —             | 74             | 45     | 5      | Porkbun LLC     |
+| quest.partners    | resell    | —         | —             | 74             | 44     | 5      | Porkbun LLC     |
 | tips.partners     | premium   | $123.75   | —             | 80             | 26     | 4      | name.com        |
 | William.partners  | available | $88.98    | —             | 74             | 31     | 7      | namecheap       |
 | property.partners | resell    | —         | —             | 76             | 38     | 8      | Porkbun LLC     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

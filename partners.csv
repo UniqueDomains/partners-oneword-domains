@@ -75,7 +75,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 06db2963-bc11-453f-a47e-b44a20c1bbc4,requests.partners,available,13.99,,56,10,8,name.com,,
 06e5f36c-e5a7-4690-9325-3f7e753287dc,rumcake.partners,available,13.99,,81,3,8,name.com,,
 06e7510a-50f9-4f98-b910-7b41d91498b6,goingdown.partners,available,13.99,,50,2,10,name.com,,
-06fbf015-d7b7-4c9b-aa74-4e18ad1661f1,quest.partners,resell,,,74,45,5,Porkbun LLC,28/08/2020 02:35,28/08/2026 02:35
+06fbf015-d7b7-4c9b-aa74-4e18ad1661f1,quest.partners,resell,,,74,44,5,Porkbun LLC,28/08/2020 02:35,28/08/2026 02:35
 07496f7a-c10f-4675-b0e7-50aabaefbe19,differences.partners,available,13.99,,52,4,11,name.com,,
 076005d4-c56c-47d1-a9b7-7b610efe436a,behindbars.partners,available,13.99,,60,6,11,name.com,,
 077c107d-56b3-4d7e-9ba5-4dd915d08850,manystemmed.partners,available,13.99,,68,1,12,name.com,,
