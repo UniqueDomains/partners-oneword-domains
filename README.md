@@ -67,7 +67,7 @@ print(df.head())
 | coins.partners    | available | $13.99    | —             | 56             | 41     | 5      | name.com        |
 | online.partners   | resell    | —         | —             | 70             | 62     | 7      | Spaceship, Inc. |
 | homes.partners    | premium   | $250      | —             | 86             | 34     | 5      | name.com        |
-| etc.partners      | available | $13.99    | —             | 58             | 34     | 3      | name.com        |
+| etc.partners      | available | $13.99    | —             | 58             | 32     | 3      | name.com        |
 | quest.partners    | resell    | —         | —             | 74             | 44     | 5      | Porkbun LLC     |
 | tips.partners     | premium   | $123.75   | —             | 80             | 26     | 4      | name.com        |
 | William.partners  | available | $88.98    | —             | 74             | 31     | 7      | namecheap       |
