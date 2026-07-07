@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .partners one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,646 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,646 domains · **Median ask:** $21.97 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,646 domains · **Median ask:** $21.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/partners`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/partners`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PARTNERS one-word dom
 
 ### Files
 
-- `partners.csv` — public CSV extract (1,000 rows)
-- `partners.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `partners.csv`, public CSV extract (1,000 rows)
+- `partners.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| coins.partners    | available | $13.99    | —             | 56             | 41     | 5      | name.com        |
-| online.partners   | resell    | —         | —             | 70             | 62     | 7      | Spaceship, Inc. |
-| homes.partners    | premium   | $250      | —             | 86             | 34     | 5      | name.com        |
-| etc.partners      | available | $13.99    | —             | 58             | 32     | 3      | name.com        |
-| quest.partners    | resell    | —         | —             | 74             | 44     | 5      | Porkbun LLC     |
-| tips.partners     | premium   | $123.75   | —             | 80             | 26     | 4      | name.com        |
-| William.partners  | available | $88.98    | —             | 74             | 31     | 7      | namecheap       |
-| property.partners | resell    | —         | —             | 76             | 38     | 8      | Porkbun LLC     |
-| has.partners      | premium   | $123.75   | —             | 60             | 26     | 3      | name.com        |
-| letsgo.partners   | available | $13.99    | —             | 57             | 31     | 7      | name.com        |
-| boats.partners    | premium   | $123.75   | —             | 52             | 24     | 5      | name.com        |
-| spaces.partners   | available | $13.99    | —             | 54             | 30     | 6      | name.com        |
-| flights.partners  | premium   | $78.54    | $78.54        | 61             | 22     | 7      | namesilo        |
-| heroes.partners   | available | $13.99    | —             | 68             | 29     | 6      | name.com        |
-| webs.partners     | premium   | $242      | $242          | 56             | 21     | 4      | namesilo        |
-| gems.partners     | available | $13.99    | —             | 70             | 28     | 4      | name.com        |
-| watches.partners  | premium   | $123.75   | —             | 84             | 19     | 7      | name.com        |
-| pages.partners    | available | $13.99    | —             | 52             | 28     | 5      | name.com        |
-| label.partners    | premium   | —         | —             | 70             | 39     | 5      | —               |
-| KFC.partners      | available | $88.98    | —             | 74             | 27     | 3      | namecheap       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| apt.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
+| info.partners     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| but.partners      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| day.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
+| luck.partners     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 8 |
+| fat.partners      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| Fla.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
+| story.partners    | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
+| lay.partners      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
+| IDK.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
+| velocity.partners | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
+| NYC.partners      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| jar.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
+| owe.partners      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| kid.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
+| pre.partners      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| mon.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
+| shy.partners      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
+| RGB.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
+| baby.partners     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .partners domains. That makes it useful for buyers who want names that signal collaboration, advisory work, investing, recruiting, professional services, or joint ventures. Examples in this set range from broad terms like launch.partners and home.partners to more unusual words like potato.partners and guitar.partners. When comparing these domains, start with commercial clarity: does the word make sense with .partners, and will a buyer instantly understand the positioning? Then check price discipline. The median ask across this set is 21.97, but fit matters more than novelty. Generic words can feel stronger, while product-linked terms such as MacBook.partners may carry obvious trademark risk.
+This selection covers one-word and short-phrase names under the .partners extension, ranging from everyday terms like homes.partners and playin.partners to culturally recognizable phrases such as WonderWoman.partners and MickeyMouse.partners. With a median asking price near $21 across 11,646 listings, .partners remains one of the more affordable extensions for locking in a memorable name. Because some names reference existing characters or franchises, checking trademark exposure is a useful step before committing to any single domain in this group.
 
-- One-word .partners names suit firms, funds, agencies, and advisors
-- Check whether the word reads naturally with the .partners ending
-- Favor clear generic terms over terms with trademark exposure
-- Use price discipline: median ask in this set is 21.97
+- 11,646 one-word .partners domains tracked, updated daily
+- Median asking price near $21 across this selection
+- Mix of everyday words, coined terms, and pop-culture names
+- Some listings carry trademark exposure - verify before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
