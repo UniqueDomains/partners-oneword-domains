@@ -1,10 +1,10 @@
-# Available .PARTNERS One-Word Domains (25,939)
+# Available .PARTNERS One-Word Domains (26,134)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C939%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C134%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .partners one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,939 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,134 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,939 domains · **Median ask:** $15.37 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 26,134 domains · **Median ask:** $15.42 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/partners`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| nothing.partners  | available | $13.99    | —             | high           | low    | 7      | name.com         |
+| youtube.partners  | available | —         | —             | high           | medium | 7      | —                |
 | apt.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
 | info.partners     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
 | but.partners      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 | day.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
 | luck.partners     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 8 |
 | fat.partners      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
-| Fla.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
+| fla.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
 | story.partners    | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
 | lay.partners      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
-| IDK.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
+| idk.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
 | velocity.partners | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
-| NYC.partners      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| nyc.partners      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
 | jar.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
 | owe.partners      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 | kid.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
 | pre.partners      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
 | mon.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
 | shy.partners      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
-| RGB.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
-| baby.partners     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,939 live domains                        |
+| 1,000-row public sample | 26,134 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
