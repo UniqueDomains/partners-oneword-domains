@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .partners one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,202 domains · **Median ask:** $15.86 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/partners`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| nothing.partners  | available | $13.99    | —             | high           | low    | 7      | name.com         |
-| youtube.partners  | available | —         | —             | high           | medium | 7      | —                |
 | apt.partners      | available | $13.99    | $92.99        | low            | low    | 3      | name.com         |
 | info.partners     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
 | but.partners      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
@@ -76,14 +74,16 @@ print(df.head())
 | story.partners    | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
 | lay.partners      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
 | idk.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
-| velocity.partners | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
+| powerful.partners | resell    | —         | —             | medium         | low    | 8      | Sav.com, LLC     |
 | nyc.partners      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
 | jar.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
+| velocity.partners | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
 | owe.partners      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 | kid.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
 | pre.partners      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
 | mon.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
 | shy.partners      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
+| rgb.partners      | available | $13.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
