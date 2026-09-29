@@ -1,10 +1,10 @@
-# Available .PARTNERS One-Word Domains (22,607)
+# Available .PARTNERS One-Word Domains (24,435)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C607%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C435%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .partners one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,607 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,435 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,607 domains · **Median ask:** $18.04 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 24,435 domains · **Median ask:** $18.38 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/partners`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| awn.partners      | available | $20.99    | $71.99        | high           | low    | 3      | namesilo         |
-| dash.partners     | resell    | —         | —             | high           | medium | 4      | —                |
-| add.partners      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| bra.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
-| data.partners     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
-| gas.partners      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| cut.partners      | available | $20.99    | $71.99        | high           | low    | 3      | namesilo         |
-| block.partners    | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 8 |
-| his.partners      | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| dji.partners      | available | $13.99    | —             | high           | low    | 3      | name.com         |
-| everyday.partners | resell    | —         | —             | high           | low    | 9      | Dynadot Inc      |
-| les.partners      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| gus.partners      | available | $20.99    | $71.99        | high           | low    | 3      | namesilo         |
-| edge.partners     | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
-| ilx.partners      | available | $10.48    | $88.98        | medium         | low    | 3      | namecheap        |
-| fail.partners     | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo         |
-| min.partners      | available | $10.48    | $88.98        | high           | low    | 3      | namecheap        |
-| page.partners     | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
-| msc.partners      | available | $20.99    | $71.99        | high           | low    | 3      | namesilo         |
-| wire.partners     | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| awn.partners    | available | $20.99    | $71.99        | high           | low    | 3      | namesilo         |
+| data.partners   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| add.partners    | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship        |
+| bra.partners    | available | $7.72     | $57.16        | high           | low    | 3      | porkbun          |
+| nova.partners   | resell    | —         | —             | high           | medium | 4      | —                |
+| gas.partners    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| cut.partners    | available | $20.99    | $71.99        | high           | low    | 3      | namesilo         |
+| block.partners  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 8 |
+| his.partners    | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| dji.partners    | available | $13.99    | —             | high           | low    | 3      | name.com         |
+| sniper.partners | resell    | —         | —             | high           | low    | 6      | —                |
+| les.partners    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| dlc.partners    | available | $20.99    | $71.99        | high           | low    | 3      | namesilo         |
+| edge.partners   | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
+| gus.partners    | available | $20.99    | $71.99        | high           | low    | 3      | namesilo         |
+| fail.partners   | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo         |
+| iec.partners    | available | $7.72     | $57.16        | medium         | low    | 3      | porkbun          |
+| page.partners   | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
+| ilx.partners    | available | $10.48    | $88.98        | medium         | low    | 3      | namecheap        |
+| wire.partners   | premium   | $414.20   | $414.20       | high           | low    | 4      | spaceship        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,607 live domains                        |
+| 1,000-row public sample | 24,435 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARTNERS One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
